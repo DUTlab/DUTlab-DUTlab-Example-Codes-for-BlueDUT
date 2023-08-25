@@ -39,3 +39,5 @@ Bunu önce Arduino IDE’si ile programlanabilen kartlar üzerinde örnekleyelim
 Aynı çalışmayı MicroPython ile programlanabilen kontrolcü kartlar için örnekteki gibi düzenleyebiliriz.
 
 Örnek kodumuzdaki veriyi BlueDUT ekranından görüntülemek için Veri Aktarımı Kontrolcüsü’ne giriş yapmamız yeterli.
+###
+Website: bluedut.dutlab.com
