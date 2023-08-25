@@ -29,3 +29,5 @@ Let's first exemplify this on boards that can be programmed with the Arduino IDE
 We can arrange the same as in the example for the controller cards that can be programmed with MicroPython.
 
 To view the data in our sample code from the BlueDUT screen, we just need to enter the Data Transfer Controller.
+###
+Website: bluedut.dutlab.com
