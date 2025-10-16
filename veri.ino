@@ -1,6 +1,6 @@
 /*
 DUTlab tarafından BlueDUT uygulaması 
-için hazırlanan örnek koddur.
+için hazırlanan örnek bir koddur.
 İletişim için:
 DUTlab: https://dutlab.com
 BlueDUT: https://bluedut.dutlab.com
